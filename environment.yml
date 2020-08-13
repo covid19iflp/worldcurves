@@ -7,3 +7,4 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - jupyter_contrib_nbextensions
